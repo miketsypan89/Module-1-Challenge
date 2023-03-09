@@ -5,4 +5,6 @@ Below, I'm attaching a screenshot of what the webpage is supposed to look like.
 
 The links are working as they are supposed to.
 
+View the page here: https://miketsypan89.github.io/Module-1-Challenge/
+
 ![screenshot-of-the-page](https://user-images.githubusercontent.com/124936942/223417953-557f949d-01c5-4a51-842d-0fd044b6f38e.JPG)
